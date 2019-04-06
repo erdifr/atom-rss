@@ -1,0 +1,17 @@
+{
+	"plugin-data":
+	{
+		"name": "Atom RSS",
+		"description": "Adds Atom and RSS feeds to your website."
+	},
+	"feed-copyright": "Feed Copyright",
+	"feed-copyright-tip": "More information about <a href=\"https://creativecommons.org/licenses/\">copyright licenses</a>.<br>Default:",
+	"feed-generator-tag": "Feed Generator Tag",
+	"feed-generator-tag-tip": "Default:",
+	"feed-item-limit": "Feed Item Limit",
+	"feed-item-limit-tip": "Maximum number of items in Atom and RSS feeds.<br>Default: \"10\". \"-1\" will output ALL pages.",
+	"feed-url-atom": "Atom Feed URL",
+	"feed-url-atom-tip": "URL that people use to subscribe to your Atom feed.",
+	"feed-url-rss": "RSS Feed URL",
+	"feed-url-rss-tip": "URL that people use to subscribe to your RSS feed."
+}
