@@ -1,0 +1,17 @@
+{
+	"plugin-data":
+	{
+		"name": "Atom RSS",
+		"description": "Плагин, который добавляет Atom и RSS-каналы на ваш сайт с Bludit."
+	},
+	"feed-copyright": "Копирайт",
+	"feed-copyright-tip": "Больше информации о <a href=\"https://creativecommons.org/licenses/\">копирайте и типах лицензий</a>.<br>По-умолчанию:",
+	"feed-generator-tag": "Тег фид-генератора",
+	"feed-generator-tag-tip": "По-умолчанию:",
+	"feed-item-limit": "Лимит записей",
+	"feed-item-limit-tip": "Максимальное количество элементов в Atom-канале и RSS-ленте.<br>По-умолчанию: \"10\". Значение \"-1\" снимает лимит (будут отображаться ВСЕ записи).",
+	"feed-url-atom": "URL-адрес Atom-канала",
+	"feed-url-atom-tip": "URL, который люди будут использовать для подписки на ваш Atom-канал.",
+	"feed-url-rss": "URL-адрес RSS-ленты",
+	"feed-url-rss-tip": "URL, который люди будут использовать для подписки на вашу RSS-ленту."
+}
